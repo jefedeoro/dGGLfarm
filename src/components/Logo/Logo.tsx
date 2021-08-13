@@ -8,7 +8,7 @@ const Logo: React.FC = () => {
     <StyledLogo to="/">
       <img src={logo} height="32" style={{ marginTop: -4 }} />
       <StyledText>
-        CasaDePero
+        Googli.Eth DAO Farm
       </StyledText>
     </StyledLogo>
   )
