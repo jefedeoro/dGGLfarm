@@ -5,10 +5,10 @@ export const CHAIN_ID = 4
 
 export const contractAddresses = {
   sushi: {
-    4: '0xA69AC6FC622360Bc0996131f0C61C5E2127A810c',
+    4: '0x20D649FCE37e24c770094F5D0BB6931934e068b0',
   },
   masterChef: {
-    4: '0x7DBcFcc02b67F38dE3c09a33139c98C535D94115',
+    4: '0xEc33d3AbdC85Bb2eaa0CaD9C304c457BDEc38895',
   },
   weth: {
     4: '0xc778417e063141139fce010982780140aa0cd5ab',
@@ -22,10 +22,10 @@ export const supportedPools = [
   {
     pid: 0,
     lpAddresses: {
-      4: '0x8adcff7a001003F95488305a1bE6Fe160Ed2fCd3', // LP Token Address
+      4: '0x3dE01751abB4352bA71b11118C653A6270481E64', // LP Token Address
     },
     tokenAddresses: {
-      4: '0x8adcff7a001003F95488305a1bE6Fe160Ed2fCd3', // Token, i.e. "GGL"
+      4: '0x3dE01751abB4352bA71b11118C653A6270481E64', // Token, i.e. "GGL"
     },
     name: 'GOOGIETHL - GOOGLIETH-DAO Farm',
     symbol: 'GGL - dGGL',
